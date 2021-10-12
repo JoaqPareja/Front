@@ -181,9 +181,10 @@ text-align: start;
 }*/
 /*.classArticle{ font-size: 1rem;}*/
 
-.classArticle { font-size: clamp(1rem, 1.3rem, 1.5rem);  }
+.classArticle { font-size: clamp(1.2rem, 1.5rem, 1.5rem);  }
 
 #articlelast{
+  font-size: clamp(1.3rem, 1.5rem, 1.5rem);
 padding-bottom: 50px;
 
 }
