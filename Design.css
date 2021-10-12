@@ -192,7 +192,7 @@ footer{
   grid-template-columns: 1fr 1fr;
   grid-column-gap: 10%;
   grid-row-gap: 11.1%; 
-  font-size: clamp(1rem, 0.8rem, 1.5rem);
+  font-size: clamp(1rem, 0.8rem, 1.3rem);
   /* position: fixed;*/
   bottom: 0px;
   width: 100%;
